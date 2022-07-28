@@ -1,5 +1,7 @@
 # _Good-Practices_ with Cypress
 
+[![ci](https://github.com/januariod/cypress-good-practices/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/januariod/cypress-good-practices/actions/workflows/ci.yml)
+
 Sample project to demonstrate the best practices with Cypress.
 
 ## Pre-requirements
@@ -43,3 +45,5 @@ Run `npm run cy:e2e` to run all tests in headless mode on cy server.
 ___
 
 Made with ❤️ by [Daniel Januario](https://github.com/januariod).
+
+Tks to @wlsf82 and TAT School :love_you_gesture:
